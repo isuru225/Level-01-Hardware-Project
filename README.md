@@ -24,4 +24,4 @@ This project aims to develop a low cost multifunctional massaging chair that req
 - [Vibuda Siromin](https://github.com/VibudaSiromin)
 - [Pramoda Katipearachchi](https://github.com/PramodaS)
 - [Prasadi Sankalpana](https://github.com/BLPSankalpana)
-- [Rashini Nethmini]()
+- [Rashini Nethmini](https://github.com/RashiniNethmini)
