@@ -17,7 +17,6 @@ This project aims to develop a low cost multifunctional massaging chair that req
 - KiCad EDA - Design PCB
 - Blender - Design 3D View
 
-
 *Contributors*
 
 - [Isuru Madushan](https://github.com/isuru225)
